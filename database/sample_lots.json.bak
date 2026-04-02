@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "lot_number": "A-001",
+        "section": "Section A",
+        "map_x": 10.5,
+        "map_y": 15.2,
+        "map_width": 8,
+        "map_height": 6,
+        "status": "Occupied",
+        "deceased_name": "John Smith"
+    },
+    {
+        "id": 2,
+        "lot_number": "A-002",
+        "section": "Section A",
+        "map_x": 20,
+        "map_y": 15.2,
+        "map_width": 8,
+        "map_height": 6,
+        "status": "Vacant",
+        "deceased_name": null
+    },
+    {
+        "id": 3,
+        "lot_number": "A-003",
+        "section": "Section A",
+        "map_x": 30,
+        "map_y": 15.2,
+        "map_width": 8,
+        "map_height": 6,
+        "status": "Occupied",
+        "deceased_name": "Mary Johnson"
+    },
+    {
+        "id": 4,
+        "lot_number": "B-001",
+        "section": "Section B",
+        "map_x": 10.5,
+        "map_y": 25,
+        "map_width": 8,
+        "map_height": 6,
+        "status": "Vacant",
+        "deceased_name": null
+    },
+    {
+        "id": 5,
+        "lot_number": "B-002",
+        "section": "Section B",
+        "map_x": 20,
+        "map_y": 25,
+        "map_width": 8,
+        "map_height": 6,
+        "status": "Vacant",
+        "deceased_name": null
+    }
+]

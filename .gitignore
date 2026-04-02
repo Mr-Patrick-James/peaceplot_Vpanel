@@ -1,0 +1,30 @@
+# Database files
+database/*.db
+database/*.db-journal
+database/*.sqlite
+database/*.sqlite3
+
+# Environment files
+.env
+config/local.php
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+cache/
